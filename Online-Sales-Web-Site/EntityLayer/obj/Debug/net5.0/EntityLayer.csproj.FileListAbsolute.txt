@@ -1,0 +1,12 @@
+C:\Users\Mehmet\Desktop\E-Ticaret-Net-Core-Katmanlı-Mimari\Online-Sales-Web-Site\EntityLayer\bin\Debug\net5.0\EntityLayer.deps.json
+C:\Users\Mehmet\Desktop\E-Ticaret-Net-Core-Katmanlı-Mimari\Online-Sales-Web-Site\EntityLayer\bin\Debug\net5.0\EntityLayer.dll
+C:\Users\Mehmet\Desktop\E-Ticaret-Net-Core-Katmanlı-Mimari\Online-Sales-Web-Site\EntityLayer\bin\Debug\net5.0\ref\EntityLayer.dll
+C:\Users\Mehmet\Desktop\E-Ticaret-Net-Core-Katmanlı-Mimari\Online-Sales-Web-Site\EntityLayer\bin\Debug\net5.0\EntityLayer.pdb
+C:\Users\Mehmet\Desktop\E-Ticaret-Net-Core-Katmanlı-Mimari\Online-Sales-Web-Site\EntityLayer\obj\Debug\net5.0\EntityLayer.csproj.AssemblyReference.cache
+C:\Users\Mehmet\Desktop\E-Ticaret-Net-Core-Katmanlı-Mimari\Online-Sales-Web-Site\EntityLayer\obj\Debug\net5.0\EntityLayer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mehmet\Desktop\E-Ticaret-Net-Core-Katmanlı-Mimari\Online-Sales-Web-Site\EntityLayer\obj\Debug\net5.0\EntityLayer.AssemblyInfoInputs.cache
+C:\Users\Mehmet\Desktop\E-Ticaret-Net-Core-Katmanlı-Mimari\Online-Sales-Web-Site\EntityLayer\obj\Debug\net5.0\EntityLayer.AssemblyInfo.cs
+C:\Users\Mehmet\Desktop\E-Ticaret-Net-Core-Katmanlı-Mimari\Online-Sales-Web-Site\EntityLayer\obj\Debug\net5.0\EntityLayer.csproj.CoreCompileInputs.cache
+C:\Users\Mehmet\Desktop\E-Ticaret-Net-Core-Katmanlı-Mimari\Online-Sales-Web-Site\EntityLayer\obj\Debug\net5.0\EntityLayer.dll
+C:\Users\Mehmet\Desktop\E-Ticaret-Net-Core-Katmanlı-Mimari\Online-Sales-Web-Site\EntityLayer\obj\Debug\net5.0\ref\EntityLayer.dll
+C:\Users\Mehmet\Desktop\E-Ticaret-Net-Core-Katmanlı-Mimari\Online-Sales-Web-Site\EntityLayer\obj\Debug\net5.0\EntityLayer.pdb
